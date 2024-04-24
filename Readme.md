@@ -1,4 +1,4 @@
-![image](https://github.com/BieLsUs/Projeto-Open-Source/blob/main/img/red-dead-redemption-2-2022-jc.jpg)
+![image](https://github.com/BieLsUs/Projeto-Open-Source/blob/main/img/red-dead-redemption-2560x1440-10618.jpg)
 
 👍 Olá a todos! Meu nome é Gabriel
 
