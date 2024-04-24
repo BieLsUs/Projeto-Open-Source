@@ -1,6 +1,6 @@
 ![image](https://github.com/BieLsUs/Projeto-Open-Source/blob/main/img/red-dead-redemption-2-2022-jc.jpg)
 
-👍 Olá a todos! Meu nome é Gabriel
+👍 <h1>Olá a todos! Meu nome é Gabriel</h1>
 
 <h2>Formação</h2>
 <p> 📃 Curso de formação em:  <a href="https://www.dio.me/certificate/T8ZBUW9L/share"> HTML </a> .</p>
