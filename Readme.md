@@ -13,6 +13,3 @@
 <h2>Objetivo</h2>
 <p>O principal objetivo da realização desse Markdowm é aprender o básico sobre contribuição no GitHub, e para o projeto Open-Source da <a href="https://web.dio.me"> DIO </a> .</p>
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-                                                          Fim.
-                                                       Vai Tomando!
