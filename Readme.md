@@ -5,6 +5,7 @@
 <h2>Formação</h2>
 <p> 📃 Curso de formação em:  <a href="https://www.dio.me/certificate/T8ZBUW9L/share"> HTML </a> .</p>
 <p> 🖥️ Curso de formação em:  <a href="https://www.dio.me/certificate/MIEC668Z/share"> CSS </a> .</p>
+<p> 🖥️ Curso de formação em:  <a href="https://www.dio.me/certificate/PT6P3CV8/share"> JAVA </a> .</p>
 <p>° Gosto das áreas de front-End sempre que consigo estou criando portifólio e postando no git, e estou estudando para ser profissional da área que tanto desejo, mas atualmente ingressei na parte de Back-End com java, pois é uma das líguas que gostaria de aprender também junto a pytho e javaScript.</p>
 
 <h2>Sobre</h2>
